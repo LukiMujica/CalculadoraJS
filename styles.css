@@ -1,7 +1,13 @@
 body {
     padding: 0;
     margin: 0;
-    background: linear-gradient(to top, #00aaff, #00ff6c);
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+        180deg,
+        rgba(2, 0, 36, 1) 0%,
+        rgba(121, 54, 9, 1) 45%,
+        rgba(255, 149, 0, 1) 100%
+    );
 }
 
 .calculadora-grilla {
